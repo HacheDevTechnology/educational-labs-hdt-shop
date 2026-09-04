@@ -1,14 +1,9 @@
 {
   "brand": "EducationalLabsHDT",
-  "products": [
-    {
-      "sku": "ELHDT-AIWL-001",
-      "name": "AI Work Lab Starter",
-      "type": "bundle",
-      "price_usd": 27,
-      "niche": "AI skills for non-technical professionals",
-      "status": "live",
-      "payment_url": "https://buy.stripe.com/test_28E5kFea7epG8tD9Kx0x204"
-    }
-  ]
+  "products": [{
+    "sku": "ELHDT-FOCO21",
+    "name": "Kit FOCO 21",
+    "price_usd": 17,
+    "stripe_payment_link": "https://buy.stripe.com/test_00w3cxaXV95m8tD09X0x20n"
+  }]
 }
