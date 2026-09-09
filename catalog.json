@@ -1,9 +1,11 @@
 {
   "brand": "EducationalLabsHDT",
   "products": [{
-    "sku": "ELHDT-FOCO21",
-    "name": "Kit FOCO 21",
-    "price_usd": 17,
-    "stripe_payment_link": "https://buy.stripe.com/test_00w3cxaXV95m8tD09X0x20n"
+    "id": "ELHDT-001",
+    "sku": "FOCUSLAB-21",
+    "name": "FocusLab 21 — Sistema de Estudio Efectivo + Kit IA",
+    "price_usd": 19,
+    "do_not_repeat": true,
+    "status": "published"
   }]
 }
