@@ -1,11 +1,25 @@
 {
   "brand": "EducationalLabsHDT",
-  "products": [{
-    "id": "ELHDT-001",
-    "sku": "FOCUSLAB-21",
-    "name": "FocusLab 21 — Sistema de Estudio Efectivo + Kit IA",
-    "price_usd": 19,
-    "do_not_repeat": true,
-    "status": "published"
-  }]
+  "updated": "2026-09-22",
+  "products": [
+    {
+      "id": "ELHDT-001",
+      "sku": "FOCUSLAB-21",
+      "name": "FocusLab 21 — Sistema de Estudio Efectivo + Kit IA",
+      "price_usd": 19,
+      "status": "published",
+      "do_not_repeat": true
+    },
+    {
+      "id": "ELHDT-002",
+      "sku": "STEMKIDS-30",
+      "name": "FocusLab Kids STEM — 30 días de laboratorio en casa",
+      "audience": "padres y homeschool 6-12",
+      "price_usd": 19,
+      "type": "digital-pack",
+      "status": "published",
+      "landing": "/stemkids.html",
+      "do_not_repeat": true
+    }
+  ]
 }
